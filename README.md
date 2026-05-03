@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Luiza Miranda Gomes 👋
 
-<!--
-**Lmg15186/Lmg15186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of IT student at AIT (Sydney)** — graduating May 2027  
+🌏 Based in Sydney, Australia  
+💼 Open to **IT Support, Networking and Junior Developer** opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm working on
+
+- 📡 **Networking** — Cisco Packet Tracer, VLSM subnetting, RIP/OSPF, DHCP/DNS
+- ☕ **Java** — login systems, OOP applications
+- 🤖 **C++** — game projects and AI-assisted planning tools
+- 🛠️ **IT Support** — POS systems, payment terminals, troubleshooting under pressure
+
+### 📌 Featured projects
+
+- 🌐 **Caderno-Inteligente-Foundations-Network** — Multi-router enterprise network with VLSM, RIP+OSPF, DHCP, DNS
+- 🤖 **adaptive-planner-ai** — Smart task planner with rule-based AI (Java)
+- 🔐 **java-login-system** — Authentication system with secure password handling
+- 🎮 **Hangman** — Classic word game built in C++
+- 🃏 **Arcana-journey** — Game project (C++)
+
+### 📫 Get in touch
+
+- 📧 luiza.mirandag@hotmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/luiza-gomes-079190311)
+
+---
+
+*"Curiosity is what turns problems into puzzles."* 🧩
